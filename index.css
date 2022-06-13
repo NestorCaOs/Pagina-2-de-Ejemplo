@@ -8,6 +8,8 @@
 
 body{
 overflow: hidden;
+background-image: url("https://www.enoturismochile.cl/wp-content/uploads/2020/05/Los-Vascos-1.jpeg");
+background-attachment: no-repeat;
 }
 
 .flex-item{
@@ -59,4 +61,4 @@ border: none;
 padding: 12px 36px;
 font-size: 17px;
 letter-spacing:  1px;
-}
+}	
