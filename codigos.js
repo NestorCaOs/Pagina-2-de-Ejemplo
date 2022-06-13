@@ -16,7 +16,7 @@ const changeHidden = (number)=>{
 let documentFragment = document.createDocumentFragment();
 
 let imgg=""
-for (var i = 1; i <= 4; i++){
+for (var i = 1; i <= 6; i++){
 	let modeloRandom = "";
 	let precioRandom = "";
 
