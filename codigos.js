@@ -57,4 +57,4 @@ precioRandom = "";
 	documentFragment.appendChild(div);
 }
 
-contenedor.appendChild(documentFragment);
+contenedor.appendChild(documentFragment);	
