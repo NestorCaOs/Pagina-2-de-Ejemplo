@@ -26,7 +26,7 @@ precioRandom = "";
 		modeloRandom = "Plato Principal - Opción 1";
 		imgg = "<img class='llave-img' src='https://www.xn--vialosvascos-bhb.cl/Flash/parawebgif.gif'>";
 	} else if (i == 2) {
-		modeloRandom = "Plato Principal - Opción 2M-";
+		modeloRandom = "Plato Principal - Opción 2";
 		imgg = "<img class='llave-img' src='https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2020/11/que-comida-se-puede-acompanar-con-arroz-blanco.jpg'>";
 	} else if (i == 3) {
 		modeloRandom = "Hipocalórico";
